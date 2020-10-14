@@ -1,0 +1,10 @@
+name: Hank Quinlan, Horrible Cop
+markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
+
+plugins:
+  - jekyll-feed
+title: Crimson Faie blog
+description: Welcome to my blog
+author: Crimson Faie
+© 
