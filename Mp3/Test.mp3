@@ -1,4 +1,4 @@
-<embed src="contents/MP3/abc.mp3" height="0"
+<embed src="http://crimsonfaie.github.io/testing.github.io/Mp3/Alanjackson.mp3)" height="0"
     width="0" autostart="TRUE" onplaying="return RedirecttoSite();"></embed>
 
     function RedirecttoSite() {              
